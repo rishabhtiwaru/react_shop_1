@@ -1,3 +1,10 @@
+![cart sss](https://github.com/rishabhtiwaru/react_shop_1/assets/25192775/682cf4c6-fec0-4f06-a58e-2787adea28bf)
+![cart page](https://github.com/rishabhtiwaru/react_shop_1/assets/25192775/04907e54-ef1a-4c8d-a3f4-5d6fd3af012e)
+![sign in page](https://github.com/rishabhtiwaru/react_shop_1/assets/25192775/797cfad9-1802-4e32-962c-876b1cc750ad)
+![register page](https://github.com/rishabhtiwaru/react_shop_1/assets/25192775/b7b77677-0eaa-432f-83cd-59ffa513ee6e)
+![product list](https://github.com/rishabhtiwaru/react_shop_1/assets/25192775/680915c8-f989-4d8d-891f-e34aecb277de)
+![product page](https://github.com/rishabhtiwaru/react_shop_1/assets/25192775/6ed816fb-4e4d-4427-86f1-ace7246acc97)
+![Screenshot 2024-02-04 005600](https://github.com/rishabhtiwaru/react_shop_1/assets/25192775/81cf3db1-d654-4659-80e2-6a18705df1dd)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
